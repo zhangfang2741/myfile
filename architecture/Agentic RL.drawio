@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9">
   <diagram name="第 1 页" id="kiGMLU6h46W3raWJNXYV">
-    <mxGraphModel dx="1681" dy="1389" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1359" dy="1142" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="kZOCBH2uE0hQ7urXnl06-25" value="&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.0pt;&quot;&gt;Planning &amp;amp; Reasoning Layer（自规划与推理层）&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="2070" y="190" width="750" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="eFypjGp5LG2Y6jdcUJ-N-108" value="UGI" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="eFypjGp5LG2Y6jdcUJ-N-108" value="UGC" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="-120" y="270" width="1990" height="720" as="geometry" />
         </mxCell>
         <mxCell id="eFypjGp5LG2Y6jdcUJ-N-44" value="&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.0pt;&quot;&gt;Agentic RL(在线更新Bandit/PPO策略)&lt;/pre&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.0pt;&quot;&gt;R_route(编排) + R_Clarify/Error + R_SQL(局部) + R_Search(局部)+...&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -180,7 +180,7 @@
         <mxCell id="eFypjGp5LG2Y6jdcUJ-N-82" value="支持通过统一的copilot进行对话,全图上下文信息不足时会自动澄清或总结澄清问题,但澄清轮次可能比较多" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="1080" width="380" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eFypjGp5LG2Y6jdcUJ-N-83" value="更加智能,支持Agent基于用户的历史数据自我进化,Agent编排更加有效,自动完成全图相关问题的上下文的补足,将澄清率和错误减少到10%以下" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="eFypjGp5LG2Y6jdcUJ-N-83" value="更加智能,支持Agent基于用户的历史数据自我进化,Agent编排更加有效,自动完成全图相关问题的上下文的补足,例如：先 Meta‑RAG → 再补齐 SQL 条件 → 再生成手法执行,将澄清率和错误减少到10%以下" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1280" y="1080" width="380" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eFypjGp5LG2Y6jdcUJ-N-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="eFypjGp5LG2Y6jdcUJ-N-104" target="eFypjGp5LG2Y6jdcUJ-N-32" edge="1">
