@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9">
   <diagram name="第 1 页" id="kiGMLU6h46W3raWJNXYV">
-    <mxGraphModel dx="1466" dy="1224" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1359" dy="1142" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -258,31 +258,31 @@
         <mxCell id="kZOCBH2uE0hQ7urXnl06-20" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;演进路线&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="kZOCBH2uE0hQ7urXnl06-55" vertex="1" connectable="0">
           <mxGeometry x="118.81127218940325" y="596.06" as="geometry" />
         </mxCell>
-        <mxCell id="OOSMQt3yGFDIElo-Hmjb-1" value="&lt;div class=&quot;cm-line&quot;&gt;&amp;nbsp; Research Planner&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;cm-line&quot;&gt;&amp;nbsp;(自动规划 + 反思 + 重规划控制层)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="OOSMQt3yGFDIElo-Hmjb-1" value="&lt;div class=&quot;cm-line&quot;&gt;&amp;nbsp; Research Planner&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;cm-line&quot;&gt;&amp;nbsp;(自动规划 + 反思 + 重规划控制层)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="2058" y="-34" width="747" height="223" as="geometry" />
         </mxCell>
-        <mxCell id="OOSMQt3yGFDIElo-Hmjb-2" value="任务管理器(TaskGraph)&lt;div&gt;&lt;div class=&quot;cm-line&quot;&gt;intent / milestore /&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;depends_on&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="OOSMQt3yGFDIElo-Hmjb-2" value="任务管理器(TaskGraph)&lt;div&gt;&lt;div class=&quot;cm-line&quot;&gt;intent / milestore /&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;depends_on&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="2086" y="23" width="341" height="139" as="geometry" />
         </mxCell>
-        <mxCell id="OOSMQt3yGFDIElo-Hmjb-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="OOSMQt3yGFDIElo-Hmjb-3" target="OOSMQt3yGFDIElo-Hmjb-6">
+        <mxCell id="OOSMQt3yGFDIElo-Hmjb-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" parent="1" source="OOSMQt3yGFDIElo-Hmjb-3" target="OOSMQt3yGFDIElo-Hmjb-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OOSMQt3yGFDIElo-Hmjb-3" value="T1" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OOSMQt3yGFDIElo-Hmjb-3" value="T1" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2163" y="63" width="39" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="OOSMQt3yGFDIElo-Hmjb-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="OOSMQt3yGFDIElo-Hmjb-4" target="OOSMQt3yGFDIElo-Hmjb-6">
+        <mxCell id="OOSMQt3yGFDIElo-Hmjb-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="OOSMQt3yGFDIElo-Hmjb-4" target="OOSMQt3yGFDIElo-Hmjb-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OOSMQt3yGFDIElo-Hmjb-4" value="T2" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OOSMQt3yGFDIElo-Hmjb-4" value="T2" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2241" y="63" width="39" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="OOSMQt3yGFDIElo-Hmjb-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="OOSMQt3yGFDIElo-Hmjb-5" target="OOSMQt3yGFDIElo-Hmjb-9">
+        <mxCell id="OOSMQt3yGFDIElo-Hmjb-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="OOSMQt3yGFDIElo-Hmjb-5" target="OOSMQt3yGFDIElo-Hmjb-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OOSMQt3yGFDIElo-Hmjb-5" value="T3" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OOSMQt3yGFDIElo-Hmjb-5" value="T3" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2324" y="63" width="39" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="OOSMQt3yGFDIElo-Hmjb-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="OOSMQt3yGFDIElo-Hmjb-6" target="OOSMQt3yGFDIElo-Hmjb-9">
+        <mxCell id="OOSMQt3yGFDIElo-Hmjb-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="OOSMQt3yGFDIElo-Hmjb-6" target="OOSMQt3yGFDIElo-Hmjb-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2235" y="128" />
@@ -290,19 +290,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OOSMQt3yGFDIElo-Hmjb-6" value="T4" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OOSMQt3yGFDIElo-Hmjb-6" value="T4" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2198" y="99" width="39" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="OOSMQt3yGFDIElo-Hmjb-9" value="T5" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OOSMQt3yGFDIElo-Hmjb-9" value="T5" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2248" y="133" width="39" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="OOSMQt3yGFDIElo-Hmjb-17" value="优先级计算器(Priority Estimator)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;gain/conf/cost计算&lt;/div&gt;&lt;div&gt;ε‑greedy / UCB选择策略&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="OOSMQt3yGFDIElo-Hmjb-17" value="优先级计算器(Priority Estimator)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;gain/conf/cost计算&lt;/div&gt;&lt;div&gt;ε‑greedy / UCB选择策略&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="2438" y="23" width="341" height="139" as="geometry" />
         </mxCell>
-        <mxCell id="OOSMQt3yGFDIElo-Hmjb-18" value="&lt;div class=&quot;cm-line&quot;&gt;Evidence Store (中台) /&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Evidence Assembler&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;cm-line&quot;&gt;打分/去重/映射结论&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;cm-line&quot;&gt;反馈 Planner (gain/conf)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="OOSMQt3yGFDIElo-Hmjb-18" value="&lt;div class=&quot;cm-line&quot;&gt;Evidence Store (中台) /&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Evidence Assembler&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;cm-line&quot;&gt;打分/去重/映射结论&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;cm-line&quot;&gt;反馈 Planner (gain/conf)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="2058" y="776" width="747" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="OOSMQt3yGFDIElo-Hmjb-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OOSMQt3yGFDIElo-Hmjb-19" target="OOSMQt3yGFDIElo-Hmjb-1">
+        <mxCell id="OOSMQt3yGFDIElo-Hmjb-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OOSMQt3yGFDIElo-Hmjb-19" target="OOSMQt3yGFDIElo-Hmjb-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2805" y="954" />
@@ -311,10 +311,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OOSMQt3yGFDIElo-Hmjb-19" value="&lt;div class=&quot;cm-line&quot;&gt;Reflection Feedback (反思反馈环路)&lt;/div&gt;&lt;div class=&quot;cm-line&quot;&gt;更新任务优先级&lt;/div&gt;&lt;div class=&quot;cm-line&quot;&gt;&amp;nbsp; &amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;插入/跳过/调整任务&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;cm-line&quot;&gt;修改 hints / 参数阈值&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="OOSMQt3yGFDIElo-Hmjb-19" value="&lt;div class=&quot;cm-line&quot;&gt;Reflection Feedback (反思反馈环路)&lt;/div&gt;&lt;div class=&quot;cm-line&quot;&gt;更新任务优先级&lt;/div&gt;&lt;div class=&quot;cm-line&quot;&gt;&amp;nbsp; &amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;插入/跳过/调整任务&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;cm-line&quot;&gt;修改 hints / 参数阈值&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="2058" y="847" width="747" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="OOSMQt3yGFDIElo-Hmjb-22" value="&lt;div class=&quot;cm-line&quot;&gt;Milestone Evaluator&lt;/div&gt;&lt;div class=&quot;cm-line&quot;&gt;检查目标是否完成&lt;/div&gt;&lt;div class=&quot;cm-line&quot;&gt;若未完成→回到 Planner&lt;/div&gt;&lt;div class=&quot;cm-line&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;若完成→触发 Report Writer&lt;/span&gt;&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="OOSMQt3yGFDIElo-Hmjb-22" value="&lt;div class=&quot;cm-line&quot;&gt;Milestone Evaluator&lt;/div&gt;&lt;div class=&quot;cm-line&quot;&gt;检查目标是否完成&lt;/div&gt;&lt;div class=&quot;cm-line&quot;&gt;若未完成→回到 Planner&lt;/div&gt;&lt;div class=&quot;cm-line&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;若完成→触发 Report Writer&lt;/span&gt;&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="2058" y="917" width="747" height="64" as="geometry" />
         </mxCell>
       </root>
