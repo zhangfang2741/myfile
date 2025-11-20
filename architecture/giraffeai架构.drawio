@@ -31,13 +31,13 @@
         <mxCell id="EKaHYLZKhtnYzOpvDPH3-7" value="GRT" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="158" y="663" width="57" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EKaHYLZKhtnYzOpvDPH3-8" value="sofapy" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="EKaHYLZKhtnYzOpvDPH3-8" value="Geamaker" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="321" y="663" width="57" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EKaHYLZKhtnYzOpvDPH3-9" value="灵犀" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="665" width="57" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EKaHYLZKhtnYzOpvDPH3-14" value="sofapy" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="EKaHYLZKhtnYzOpvDPH3-14" value="zdas" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-209" y="657" width="58" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F5Ukjgugp4n-O8bhyNYo-1" value="&lt;p style=&quot;text-align: start;&quot;&gt;&lt;font color=&quot;#333333&quot; face=&quot;system-ui, Segoe UI, Roboto, Helvetica, Arial, sans-serif&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255);&quot;&gt;service&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
@@ -47,10 +47,10 @@
           <mxGeometry x="617" y="733" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y9wrwVyj8CrepCCAr8z2-4" value="&lt;p style=&quot;text-align: start;&quot;&gt;&lt;font color=&quot;#333333&quot; face=&quot;system-ui, Segoe UI, Roboto, Helvetica, Arial, sans-serif&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255);&quot;&gt;Muti Agent&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-254" y="261" width="1017" height="177" as="geometry" />
+          <mxGeometry x="-254" y="174" width="1017" height="264" as="geometry" />
         </mxCell>
         <mxCell id="y9wrwVyj8CrepCCAr8z2-5" value="Framework" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-233" y="307" width="983" height="120" as="geometry" />
+          <mxGeometry x="-233" y="223" width="983" height="204" as="geometry" />
         </mxCell>
         <mxCell id="y9wrwVyj8CrepCCAr8z2-8" value="&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9pt;&quot;&gt;&lt;span&gt;requests&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#0A0A0A;" vertex="1" parent="1">
           <mxGeometry x="617" y="663" width="54" height="60" as="geometry" />
@@ -87,6 +87,18 @@
         </mxCell>
         <mxCell id="y9wrwVyj8CrepCCAr8z2-23" value="Query Runtime Service&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;GQL校验/DSL校验/&lt;/span&gt;GQL执行/DSL执行&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="y9wrwVyj8CrepCCAr8z2-25">
           <mxGeometry x="818.9655172413794" width="131.0344827586207" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y9wrwVyj8CrepCCAr8z2-27" value="ODPS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="386" y="663" width="57" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y9wrwVyj8CrepCCAr8z2-34" value="Sub Agent" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-218" y="285" width="956" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="y9wrwVyj8CrepCCAr8z2-43" value="orchestrator" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-218" y="251" width="956" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y9wrwVyj8CrepCCAr8z2-44" value="Agentic RL" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-254" y="126" width="1018" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
