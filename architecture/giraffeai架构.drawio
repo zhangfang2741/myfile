@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.0">
+  <diagram name="第 1 页" id="DAS3sUKZ3sXzEkaun-9E">
+    <mxGraphModel dx="1361" dy="259" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EKaHYLZKhtnYzOpvDPH3-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GIraffe Db Client" vertex="1">
+          <mxGeometry height="60" width="120" x="-254" y="659" as="geometry" />
+        </mxCell>
+        <mxCell id="EKaHYLZKhtnYzOpvDPH3-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Giraffe Rag Client" vertex="1">
+          <mxGeometry height="60" width="120" x="-5" y="657" as="geometry" />
+        </mxCell>
+        <mxCell id="EKaHYLZKhtnYzOpvDPH3-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Giraffe LLM Client&lt;div&gt;(llm\embedding)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="657" as="geometry" />
+        </mxCell>
+        <mxCell id="EKaHYLZKhtnYzOpvDPH3-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Giraffe Agent Client" vertex="1">
+          <mxGeometry height="60" width="120" x="158" y="657" as="geometry" />
+        </mxCell>
+        <mxCell id="EKaHYLZKhtnYzOpvDPH3-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Giraffe Rpc Client" vertex="1">
+          <mxGeometry height="60" width="120" x="321" y="657" as="geometry" />
+        </mxCell>
+        <mxCell id="EKaHYLZKhtnYzOpvDPH3-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GRT" vertex="1">
+          <mxGeometry height="60" width="57" x="-5" y="729" as="geometry" />
+        </mxCell>
+        <mxCell id="EKaHYLZKhtnYzOpvDPH3-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GRT" vertex="1">
+          <mxGeometry height="60" width="57" x="158" y="729" as="geometry" />
+        </mxCell>
+        <mxCell id="EKaHYLZKhtnYzOpvDPH3-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="sofapy" vertex="1">
+          <mxGeometry height="60" width="57" x="321" y="729" as="geometry" />
+        </mxCell>
+        <mxCell id="EKaHYLZKhtnYzOpvDPH3-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="openai" vertex="1">
+          <mxGeometry height="60" width="57" x="480" y="733" as="geometry" />
+        </mxCell>
+        <mxCell id="EKaHYLZKhtnYzOpvDPH3-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="DB" vertex="1">
+          <mxGeometry height="60" width="120" x="-254" y="586" as="geometry" />
+        </mxCell>
+        <mxCell id="EKaHYLZKhtnYzOpvDPH3-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;p&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif; text-align: start; white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font&gt;integration&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="605" x="-5" y="586" as="geometry" />
+        </mxCell>
+        <mxCell id="EKaHYLZKhtnYzOpvDPH3-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="sofapy" vertex="1">
+          <mxGeometry height="60" width="58" x="-254" y="729" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
