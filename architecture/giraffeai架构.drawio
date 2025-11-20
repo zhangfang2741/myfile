@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EKaHYLZKhtnYzOpvDPH3-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif; text-align: start; white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font&gt;integration&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="237" width="668" x="-37" y="586" as="geometry" />
+        </mxCell>
         <mxCell id="EKaHYLZKhtnYzOpvDPH3-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GIraffe Db Client" vertex="1">
           <mxGeometry height="60" width="120" x="-254" y="659" as="geometry" />
         </mxCell>
@@ -34,11 +37,11 @@
         <mxCell id="EKaHYLZKhtnYzOpvDPH3-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="DB" vertex="1">
           <mxGeometry height="60" width="120" x="-254" y="586" as="geometry" />
         </mxCell>
-        <mxCell id="EKaHYLZKhtnYzOpvDPH3-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;p&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif; text-align: start; white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font&gt;integration&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="60" width="605" x="-5" y="586" as="geometry" />
-        </mxCell>
         <mxCell id="EKaHYLZKhtnYzOpvDPH3-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="sofapy" vertex="1">
           <mxGeometry height="60" width="58" x="-254" y="729" as="geometry" />
+        </mxCell>
+        <mxCell id="F5Ukjgugp4n-O8bhyNYo-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;p style=&quot;text-align: start;&quot;&gt;&lt;font color=&quot;#333333&quot; face=&quot;system-ui, Segoe UI, Roboto, Helvetica, Arial, sans-serif&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255);&quot;&gt;serbice&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="856" x="-254" y="508" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
