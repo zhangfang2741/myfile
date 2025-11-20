@@ -10,16 +10,16 @@
         <mxCell id="EKaHYLZKhtnYzOpvDPH3-11" value="&lt;p&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif; text-align: start; white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font&gt;integration&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="-37" y="586" width="799" height="237" as="geometry" />
         </mxCell>
-        <mxCell id="EKaHYLZKhtnYzOpvDPH3-1" value="GIraffe Db Client" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="EKaHYLZKhtnYzOpvDPH3-1" value="GIraffe Db Client&lt;div&gt;(tablemeta、column meta、query_by_id,query_sql)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-209" y="723" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EKaHYLZKhtnYzOpvDPH3-2" value="Giraffe Rag Client" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="EKaHYLZKhtnYzOpvDPH3-2" value="Giraffe Rag Client&lt;div&gt;similarity_search&lt;/div&gt;&lt;div&gt;similarity_search_with_type&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-8" y="729" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EKaHYLZKhtnYzOpvDPH3-3" value="Giraffe LLM Client&lt;div&gt;(llm\embedding)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="733" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EKaHYLZKhtnYzOpvDPH3-4" value="Giraffe Agent Client" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="EKaHYLZKhtnYzOpvDPH3-4" value="Giraffe a2a Client&lt;div&gt;query&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="158" y="733" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EKaHYLZKhtnYzOpvDPH3-5" value="Giraffe Rpc Client" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
